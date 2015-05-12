@@ -1,0 +1,5 @@
+Entering goodie something
+Local tick: 2
+Lifetime: 80
+Ticks left: 52
+FOUND IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
